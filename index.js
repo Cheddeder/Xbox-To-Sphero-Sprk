@@ -3,7 +3,7 @@ var sphero = require('sphero');
 var myMath = require('./math');
 
 // ----------------------------
-var uuid = '<enter_droid_uuid_here>'; // Enter Droid UUID (MAC address)
+var uuid = '<SP-0736>'; // Enter Droid UUID (MAC address)
 // ----------------------------
 
 var droid = sphero(uuid);
